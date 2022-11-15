@@ -1,4 +1,4 @@
-Hi, I am Jin Lexuan!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi, I am Jin Lexuan. You can contact me at: jinlexuan111@gmail.com
 
 - I am focusing on C++/Python/MySQL... You can find:
 - Study repos (knowledge & code example)： [C++ Study](https://github.com/JinLexuan/CPP-Study-Repo) / [MySQL Study](https://github.com/JinLexuan/MySQL-Study-Repo) / [Python Study](https://github.com/JinLexuan/python-study-repo)
