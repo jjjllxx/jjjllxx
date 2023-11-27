@@ -9,5 +9,5 @@ Hi, I am Jin Lexuan. You can contact me at: jinlexuan111@gmail.com
 
 <details close>
 <summary>:zap: My GitHub data</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=JinLexuan&show_icons=true&theme=nord" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjjllxx&show_icons=true&theme=nord" width="400px">
 </details>
